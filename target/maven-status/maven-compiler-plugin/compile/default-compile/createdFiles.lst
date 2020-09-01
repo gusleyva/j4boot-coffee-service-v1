@@ -1,0 +1,6 @@
+com/j4boot/aws/lambda/coffee/StreamLambdaHandler.class
+com/j4boot/aws/lambda/coffee/Application$1.class
+com/j4boot/aws/lambda/coffee/controller/PingController.class
+com/j4boot/aws/lambda/coffee/model/Coffee.class
+com/j4boot/aws/lambda/coffee/controller/CoffeeController.class
+com/j4boot/aws/lambda/coffee/Application.class
